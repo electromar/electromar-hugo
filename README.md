@@ -1,5 +1,5 @@
 Configuración sitio web
-----
+========
 
 Para futuras referencias se documenta el proceso que se siguió con el cliente "Electromar", proyecto referido por la gerencia.
 
