@@ -5,7 +5,7 @@ heading: What we offer
 description: We offer state of the art solutions for all your needs
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: img/techicos2.jpg
       text: >
         GMDSS Equipment,AIS system, SSAS system silence alarm, fire control
         systems, Radar (Bands X, S), Radar Arpa (Anticollition), Radar
@@ -13,7 +13,7 @@ intro:
         SATCOM terminals,Mini M, F77 satcoms,Telex,Fax,internet, data systems,
         GPS Plotters, Autopilots,Gyrocompass, Chart plotters, Navegations lights
         system, Oil discharge monitor system, Main Generators.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: img/techicos3.jpg
       text: >-
         GMDSS Stations, Radio Transceivers, Autopilots, Gyrocompass, Radar,
         Navtex, Epirbs, Radar Transponder, Weather Fax, VHF Portable Radios,
@@ -22,14 +22,14 @@ intro:
         Electronic Control and others, Survival equipment, Thermometers,
         Generator Controls, Satellite Phones (Iridium, Mini-M), SimCard
         Activation, GPS, Chart Plotter.
-    - image: /img/illustrations-tutorials.svg
+    - image: img/techicos1.jpg
       text: >-
         ACR Electronics, TRIMBLE, SARACO, NERA, SEA, MAGELLAN, FURUNO, RAYTHEON,
         KELVIN HUGHES, THRANE &amp; THRANE, ROSS ENGINEERING, SIMRAD, JRC,
         C-PLATH, ANCHUTZ AND MANY OTHERS, WINTERS, NEXUS, COMROD, NORTHSTAR,
         SI-TEX, KODEN, IRIDIUM, SIMRAD, TOKIMEC, SPERRY, PANELTRONICS,
         SHAKESPEARE AND OTHERS.
-    - image: /img/illustrations-meeting-space.svg
+    - image: img/techicos4.jpg
       text: >-
         Supply installation, maintenance & service contract,Iridium Phone voice
         data internet, Satellite Commissioning, Radio Surveys, Inmarsat Service
