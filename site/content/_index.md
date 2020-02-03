@@ -1,6 +1,6 @@
 ---
 title: Electromar Services
-subtitle: Excelente nivel de servicio para su empresa
+subtitle: Marine Electronic - Communication - Electronic & Ship Repair
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Por qué Electromar?
