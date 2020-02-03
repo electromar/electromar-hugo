@@ -23,7 +23,7 @@ intro:
     during the Panama Canal Transit, the Caribbean area, Central America, South
     America and Europe.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/boats-in-shed04.jpg
     text: >-
       GMDSS Equipment,AIS system, SSAS system silence alarm, fire control
       systems, Radar (Bands X, S), Radar Arpa (Anticollition), Radar Transponder
@@ -31,7 +31,7 @@ products:
       terminals,Mini M, F77 satcoms,Telex,Fax,internet, data systems, GPS
       Plotters, Autopilots,Gyrocompass, Chart plotters, Navegations lights
       system, Oil discharge monitor system, Main Generators.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/boat-deck.jpg
     text: >-
       GMDSS Stations, Radio Transceivers, Autopilots, Gyrocompass, Radar,
       Navtex, Epirbs, Radar Transponder, Weather Fax, VHF Portable Radios,
