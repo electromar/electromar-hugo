@@ -1,6 +1,6 @@
 ---
 title: Electromar Services
-subtitle: Marine Electronic - Communication - Electronic & Ship Repair
+subtitle: Marine Electronic - Communication - Ship Repair
 image: img/jumbo-yate-blanco.jpg
 blurb:
   heading: Why Electromar?
