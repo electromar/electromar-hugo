@@ -31,7 +31,7 @@ products:
       terminals,Mini M, F77 satcoms,Telex,Fax,internet, data systems, GPS
       Plotters, Autopilots,Gyrocompass, Chart plotters, Navegations lights
       system, Oil discharge monitor system, Main Generators.
-  - image: img/boat-deck.jpg
+  - image: img/boats-in-shed04.jpg
     text: >-
       GMDSS Stations, Radio Transceivers, Autopilots, Gyrocompass, Radar,
       Navtex, Epirbs, Radar Transponder, Weather Fax, VHF Portable Radios,
