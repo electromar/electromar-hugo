@@ -1,46 +1,80 @@
-# Hugo template for Netlify CMS with Netlify Identity
+Configuración sitio web
+----
 
-This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
+Para futuras referencias se documenta el proceso que se siguió con el cliente "Electromar", proyecto referido por la gerencia.
 
-## Getting started
 
-Use our deploy button to get your own copy of the repository. 
+Creación de cuenta en gmail
+-----
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
+Se creó una cuenta en Gmail para almacenar todas las comunicaciones e identificaciones relacionadas al proyecto.
 
-This will setup everything needed for running the CMS:
 
-* A new repository in your GitHub account with the code
-* Full Continuous Deployment to Netlify's global CDN network
-* Control users and access with Netlify Identity
-* Manage content with Netlify CMS
 
-Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite.
+Creación de cuenta en Github
+----
 
-Now you're all set, and you can start editing content!
+Se creó cuenta en Github para almacenar el repositorio del proyecto en GIT.
 
-## Local Development
+Se decidió no utilizar gh-pages para tener más flexibilidad en la creación de las páginas.
 
-Clone this repository, and run `yarn` or `npm install` from the new folder to install all required dependencies.
 
-Then start the development server with `yarn start` or `npm start`.
+Creación de repositorio en Github
+-----
 
-## Layouts
+Se creó el repositorio "electromar-hugo" para almacenar el contenido del proyecto.
 
-The template is based on small, content-agnostic partials that can be mixed and matched. The pre-built pages showcase just a few of the possible combinations. Refer to the `site/layouts/partials` folder for all available partials.
 
-Use Hugo’s `dict` functionality to feed content into partials and avoid repeating yourself and creating discrepancies.
+Instalación de applicación Netlify
+----
 
-## CSS
+Se configuró el repositorio para que manejara la aplicación "Netlify".
 
-The template uses a custom fork of Tachyons and PostCSS with cssnext and cssnano. To customize the template for your brand, refer to `src/css/imports/_variables.css` where most of the important global variables like colors and spacing are stored.
+Desde netlifycms.org se hizo el deploy con el template "Kaldi".  
 
-## SVG
+Con esto se generó el proyecto en el repositorio con las siguientes características:
+* Integración con identity en netlify
+* Utilización de hugo como generador estático
+* Implementación de plantilla Kaldi
+* Instalación de aplicación netlifycms en el directorio /admin
+* Utilización de certificados digitales para proveer un sitio seguro
 
-All SVG icons stored in `site/static/img/icons` are automatically optimized with SVGO (gulp-svgmin) and concatenated into a single SVG sprite stored as a a partial called `svg.html`. Make sure you use consistent icons in terms of viewport and art direction for optimal results. Refer to an SVG via the `<use>` tag like so:
 
-```
-<svg width="16px" height="16px" class="db">
-  <use xlink:href="#SVG-ID"></use>
-</svg>
-```
+Configuración de DNSs
+-----
+
+Se realizaron las adaptaciones para hacer que el dominio electromarpanana.com apuntara a los servidores de nombres de Netlify.
+
+En especial se configuraron estos name servers:
+
+* dns1.p07.nsone.net
+* dns2.p07.nsone.net
+* dns3.p07.nsone.net
+* dns4.p07.nsone.net
+
+En la consola del registrante se cambiaron los servidores de dominio.
+
+El proceso tomó unas horas para propagarse.
+
+Dentro de netlify, se configuraron los dominios siguiendo las instrucciones para delegar el dominio.
+
+Búsqueda de materiales
+---
+
+Se buscaron los materiales actualizados del sitio en el [archivo de internet](https://archive.org/), utilizando la herramienta [archivarix](https://en.archivarix.com/) para descargar el contenido completo del sitio.
+
+
+Cambios en plantilla
+-----
+
+Utilizando el contenido descargado se procedió a modificar la plantilla para proveer las páginas del sitio.
+
+En particular se crearon las páginas de:
+* Home
+* Products
+* About us
+* Contact
+
+En cada una de ellas se utilizaron algunos textos del sitio y otros se modificaron para proveer mejor información.
+
+Se utilizaron imagenes ubicadas en internet.  Es necesario que el cliente provea fotografías adecuadas.
