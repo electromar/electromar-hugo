@@ -51,14 +51,14 @@ main:
     best conditions. Your boat is a big investment, and we put our skills in
     keeping in the best conditions every time.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Great services
+    image: img/velero.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: 24x7 availability
+    image: img/velero-atardecer.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: img/big-velero.jpg
 testimonials:
   - author: Yacth owner
     quote: >-
