@@ -3,16 +3,15 @@ title: About us
 image: img/jumbo-yate.jpg
 values:
   - heading: Years of experience
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/Motor-Yacht-Maintenance-Steel-Work-Repairs@2x-e1555939737307.png
     text: >
-      ELECTROMAR SERVICES S.A.&nbsp; was first established in 1993, by Mr. Dino
-      G. Berroa, President and Manager of the company,</b> who had the vision to
-      create a 24 hrs company full dedicated to marine electronic, hydraulic,
-      communication, ship repair and general spare supply for all types of
-      vessels and yachts crossing the Panama Canal Area in the Republic of
-      Panama.
+      ELECTROMAR SERVICES was first established in 1993, by Mr. Dino G. Berroa,
+      President and Manager of the company, who had the vision to create a 24
+      hrs company full dedicated to marine electronic, hydraulic, communication,
+      ship repair and general spare supply for all types of vessels and yachts
+      crossing the Panama Canal Area in the Republic of Panama.
   - heading: Reliability
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: img/boats-in-shed04.jpg
     text: >-
       The company gain local and international prestige because of the technical
       skills & support, reliability and high quality standards offered to each
@@ -31,13 +30,13 @@ values:
       of Commerce in Panama, in the category of Ship spare part supply and
       Airplane spare parts supply.
   - heading: Solid Relationships
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: img/boat-deck.jpg
     text: >-
       In September 2002, ELECTROMAR SERVICES joined the <b>I.S.E.S
       (International Ship Electrical and Engineering Service Association
       LTD.)</b>, first found in 1963 with headquarters in UK, Europe. 
   - heading: International services
-    imageUrl: /img/about-direct-sourcing.jpg
+    imageUrl: img/regata.jpg
     text: >
       Today, ELECTROMAR SERVICES S.A. is a company specialized and dedicated to
       the provisions of spare parts, ship repair and maintenance of all kind of
@@ -45,7 +44,7 @@ values:
       agent in six different countries (Panama, Peru, Mexico, Colombia, Costa
       Rica, Spain) to assist the international operations.
   - heading: 24x7 Reliable Services
-    imageUrl: /img/about-reinvest-profits.jpg
+    imageUrl: img/night-yacth.jpg
     text: >-
       The company offers 24 hours service, 7 days a week in Panama, the
       Caribbean Islands, South America and worldwide; through well trained
