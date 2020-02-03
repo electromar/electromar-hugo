@@ -1,5 +1,5 @@
 ---
-title: Electormar Services
+title: Electromar Services
 subtitle: Excelente nivel de servicio para su empresa
 image: /img/home-jumbotron.jpg
 blurb:
