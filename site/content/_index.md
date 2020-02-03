@@ -1,21 +1,27 @@
 ---
 title: Electromar Services
 subtitle: Marine Electronic - Communication - Electronic & Ship Repair
-image: /img/home-jumbotron.jpg
+image: img/jumbo-yate-cenital.jpg
 blurb:
-  heading: Por qué Electromar?
+  heading: Why Electromar?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We work only with the best company in each area of our customer needs.  In
+    addition to the formal electronic training at Universities, Aeronautical
+    Institutes in Panama, factories at USA , the technicians had attended to
+    specialize trainings in other countries such as: Canada, England, Norway,
+    Korea, Japan.
 intro:
   heading: What we offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    ELECTROMAR  offers to the customers, 30+ years of experience, to satisfy
+    your needs for radio survey, repairs, maintenance and supplies. 
+
+
+    This knowledge was built up by international training as well as the field
+    day by day attending different kinds of customers as Ship Owners, Private
+    yatchs, Sail boats, shipping agencies companies, Fleet float companies,
+    during the Panama Canal Transit, the Caribbean area, Central America, South
+    America and Europe.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
@@ -31,11 +37,10 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: Reliable Partner
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    The company offers 24 hours service, 7 days a week in Panama, the Caribbean
+    Islands, South America and worldwide; through well trained professionals and
+    experienced technicians in this field.
 ---
 
