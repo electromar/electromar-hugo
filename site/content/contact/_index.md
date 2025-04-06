@@ -16,7 +16,9 @@ contact_entries:
     text: |-
       VHF CHANNEL 16
       /
-      Mobile: 24 hrs (507) 675-3620
+      Mobile: 24 hrs (507) 667-53620
+      /
+      Mobile: (507) 630-18496
 ---
 We’d love to get in touch with you and hear your ideas and questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
